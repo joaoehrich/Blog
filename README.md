@@ -3,7 +3,6 @@
 
 ➡️O personagem escolhido foi Charles Babbage;
 ➡️Trabalho realizado em grupo por 5 integrantes;
-➡️Trabalho realizado em grupo por 5 integrantes;
 ➡️Blog feito na plataforma do google workspace, utilizando a ferramenta BLOGGER da Google.
 
 💡-Estruturação do Blog:
@@ -35,8 +34,8 @@
 📖-A criptografia, Charles Babbage quebrou a cifra de Vigenère.
 
 👔-Colaboradores:
-💁-
-💁-
+💁-https://github.com/ThiagoFNDev
+💁-https://github.com/cmotta000
 💁-
 💁-
 
